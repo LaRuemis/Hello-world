@@ -3,8 +3,8 @@ package helloworld;
 public class HelloWorld {
     
     public static void main(String[] args) {
-        //print the words Hello World on the screen 7
         System.out.println("Hello World"); 
                 }
     
 }
+// This is my first time using GitHub. Hope this is fine
